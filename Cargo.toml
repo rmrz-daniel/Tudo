@@ -1,0 +1,20 @@
+[package]
+name = "tudo"
+version = "0.1.0"
+authors = ["Daniel Ramirez <https://www.linkedin.com/in/rmrz-daniel/>"]
+license = "MIT OR Apache-2.0"
+description = "A tool for quickly managing todo's in a project :)"
+readme = "README.md"
+homepage = "https://github.com/rmrz-daniel/Tudo"
+repository = "https://github.com/rmrz-daniel/Tudo"
+keywords = ["cli", "todo-list", "todo", "rust", "fast"]
+categories = ["command-line-utilities"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ansi_term = "0.12"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = {version = "1.0"}
+inquire = "0.6.0"
