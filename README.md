@@ -13,7 +13,7 @@ cargo install tudo
 alternatively you may install the executable from the release tab and manual add the .exe to your win11 path env
 
 <p align="center">
-  <img width="128" height="128" src="https://github.com/rmrz-daniel/Tudo/blob/main/src/Photos/Path.png">
+  <img src="https://github.com/rmrz-daniel/Tudo/blob/main/src/Photos/Path.png">
 </p>
 
 ## Usage
