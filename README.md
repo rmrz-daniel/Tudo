@@ -6,6 +6,11 @@
 
 Tudo is a fast and simple CLI tool for managing to-do lists. With Tudo, you can easily add, remove, clear, and mark tasks as done, all from the command line. Tudo is written in Rust, making it a BLAZINGLY high-performance and efficient tool for staying organized.
 
+<p align="center">
+  <img src="https://github.com/rmrz-daniel/Tudo/blob/main/src/Photos/demo.gif">
+</p>
+
+
 ## Installation
 
 To use Tudo, you can install Tudo using Cargo, Rust's package manager:
